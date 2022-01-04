@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a https://github.com/omarcus212?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarcus212&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcus212&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarcus212&show_icons=false&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcus212&layout=compact&langs_count=7&theme=white"/>
 </div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcus-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/121/121152.png">
+  <img align="center" alt="Marcus-Java"  height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/121/121152.png">
 </div>
 
  ##
