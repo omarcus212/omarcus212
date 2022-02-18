@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcus-Java"  height="30" width="40" src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fdicasdejava.com.br%2Fimages%2Flogo-java.png&imgrefurl=https%3A%2F%2Fdicasdejava.com.br%2Fjava-como-fazer-download-de-um-arquivo%2F&tbnid=3yEm8ey2ceZlgM&vet=12ahUKEwjE0bDH8Yn2AhUMA7kGHV52BT8QMygAegUIARC9AQ..i&docid=pPds0LbqQHU_uM&w=518&h=518&q=img%20java&ved=2ahUKEwjE0bDH8Yn2AhUMA7kGHV52BT8QMygAegUIARC9AQ">
+  <img align="center" alt="Marcus-Java"  height="30" width="40" src="https://dev.java/assets/images/java-logo-vert-blk.png">
 </div>
 
  ##
