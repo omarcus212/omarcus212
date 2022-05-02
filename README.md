@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcus-Java"  height="30" width="40" src="https://aux.iconspalace.com/uploads/1637531540241015194.png">
+  <img align="center" alt="Marcus-Java"  height="30" width="40" src="https://e7.pngegg.com/pngimages/356/251/png-clipart-java-development-kit-java-architecture-for-xml-binding-java-runtime-environment-javafx-others-miscellaneous-text.png">
     <img align="center" alt="php" height="30" width="40" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png">    
   <img align="center"alt="kotlin"height="30"width="40"src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png"> 
       <img align="center" alt="Myslq" height="30" width="40" src="https://geeklk.com/wp-content/uploads/2014/03/mysql-geeklk.jpg">                                                                
