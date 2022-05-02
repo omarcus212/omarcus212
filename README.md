@@ -27,8 +27,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcus-Java"  height="30" width="40" src="">
   
-    <img align="center" alt="php" height="30" width="40" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png">  
-                                                                                                                           <img align="center"alt="kotlin"height="30"width="40"src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png"> 
 </div>
 
  ##
