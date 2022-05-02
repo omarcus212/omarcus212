@@ -26,7 +26,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcus-Java"  height="30" width="40" src="https://dev.java/assets/images/java-logo-vert-blk.png">
-    <img aling="center" alt="php" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkinsta.com%2Fpt%2Fbase-de-conhecimento%2Fo-que-php%2F&psig=AOvVaw3W3BHIxU5rz9DAYe_ssItZ&ust=1651599771178000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJiD1N-uwfcCFQAAAAAdAAAAABAD" >                                                                                                                      
+    <img aling="center" alt="php" height="30" width="40" src="https://kinsta.com/wp-content/uploads/2018/05/what-is-php-3-1.png">  
+     <img aling="center" alt="kotlin" height="30" width="40" src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2017/08/kotlin-a-nova-linguagem-oficial-para-desenvolvimento-android.png"> 
+      <img aling="center" alt="Myslq" height="30" width="40" src="https://www.iped.com.br/img/cursos/56207.jpg">                                                                
 </div>
 
  ##
