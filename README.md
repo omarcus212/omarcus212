@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcus-Java"  height="30" width="40" src="https://img.ibxk.com.br/materias/7204960/56172.jpg">
+  <img align="center" alt="Marcus-Java"  height="30" width="40" src="https://www.moconline.com.br/img/produtos/01-12-2021-09-52-50-jjj.jpeg">
     <img align="center" alt="php" height="30" width="40" src="https://e7.pngegg.com/pngimages/184/491/png-clipart-php-php.png">  
      <img align="center" alt="kotlin" height="30" width="40" src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2017/08/kotlin-a-nova-linguagem-oficial-para-desenvolvimento-android.png"> 
       <img align="center" alt="Myslq" height="30" width="40" src="https://www.iped.com.br/img/cursos/56207.jpg">                                                                
