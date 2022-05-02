@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Marcus-Java"  height="30" width="40" src="https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png/javalogo.png">
     <img align="center" alt="php" height="30" width="40" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png">    
   <img align="center"alt="kotlin"height="30"width="40"src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png"> 
-      <img align="center" alt="Myslq" height="30" width="40" src="https://w7.pngwing.com/pngs/260/687/png-transparent-mysql-database-computer-servers-microsoft-sql-server-laxyo-solution-soft-pvt-ltd-text-logo-web-server.png">                                                                
+      <img align="center" alt="Myslq" height="30" width="40" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/08/com031.jpg">                                                                
 </div>
 
  ##
