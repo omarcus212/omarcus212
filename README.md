@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Marcus-Java"  height="30" width="40" src="https://dev.java/assets/images/java-logo-vert-blk.png">
     <img align="center" alt="php" height="30" width="40" src="https://kinsta.com/wp-content/uploads/2018/05/what-is-php-3-1.png">  
      <img align="center" alt="kotlin" height="30" width="40" src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2017/08/kotlin-a-nova-linguagem-oficial-para-desenvolvimento-android.png"> 
-      <img align="center" alt="Myslq" height="30" width="40" src="https://www.iped.com.br/img/cursos/56207.jpg">                                                                
+      <img align="center" alt="Myslq" height="30" width="40" border-radius="50" src="https://www.iped.com.br/img/cursos/56207.jpg">                                                                
 </div>
 
  ##
