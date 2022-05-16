@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcus-Java"  height="30" width="40" src="https://cdn.wallpapersafari.com/95/49/8OFpch.png">
+                                                                                                                      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Marcus-php"  height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogodownload.org%2Fphp-logo%2F&psig=AOvVaw1rpyGz3g6WyC73IefIfVNG&ust=1652803332696000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCi1bCy5PcCFQAAAAAdAAAAABAD">
   
 </div>
 
