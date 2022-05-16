@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Marcus-Java"  height="30" width="40" src="https://cdn.wallpapersafari.com/95/49/8OFpch.png">
   <img align="center" alt="Marcus-php"  height="30" width="40" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png">
   <img align="center" alt="Marcus-php"  height="30" width="40" src="https://dev.java/assets/images/java-logo-vert-blk.png">
-  <img align="center" alt="Marcus-php"  height="30" width="40" src="https://altyra.com/wp-content/uploads/2018/11/mysql-logo-png-transparent.png">
+  <img align="center" alt="Marcus-php"  height="30" width="40" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/08/com031.jpg">
   
 </div>
 
