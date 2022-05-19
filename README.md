@@ -29,6 +29,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Marcus-Java"  height="30" width="40" src="https://thumbs.dreamstime.com/b/logotipo-de-java-118452997.jpg">
  <img align="center" alt="Marcus-mysql"  height="30" width="40" src="https://community.isubsoft.com/sites/default/files/styles/banner/public/nohta/editor/images/201818/4/mysql-geeklk.jpg?itok=hGOpy_t5">
    <img align="center" alt="Marcus-kotlin"  height="30" width="40" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png">
+     <img align="center" alt="Marcus-kotlin"  height="30" width="40" src="![image](https://user-images.githubusercontent.com/88518763/169386636-9b00abea-b506-4e3e-993e-cc724095df74.png)
+">
   
 </div>
 
