@@ -38,10 +38,6 @@ Here are some ideas to get you started:
  <div> 
   <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcus-vinnicius-524aa1206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
- 
- <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/00179b5d929200942af0a987b65b6925c3eb1b3f65223214bf8c7081f408fdbd/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6a6a6e616e7468616b756d6172267468656d653d78636f6465"><img src="https://camo.githubusercontent.com/00179b5d929200942af0a987b65b6925c3eb1b3f65223214bf8c7081f408fdbd/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6a6a6e616e7468616b756d6172267468656d653d78636f6465" alt="marcus" align="center" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=marcus;theme=xcode" style="max-width: 100%;"></a></p>
   
  </div>
  
