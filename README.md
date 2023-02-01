@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div id="TESTE "align="center">
   <a https://github.com/omarcus212?tab=repositories">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarcus212&show_icons=false&theme=White&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcus212&layout=compact&langs_count=7&theme=white"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcus212&layout=compact&langs_count=7&theme=black"/>
 </div>
 
  
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  <div> 
  
   <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcus-vinnicius-524aa1206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/marcus-vinnicius-524aa1206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
   
  </div>
  <div dir="auto"><br>
