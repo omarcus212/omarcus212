@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
  
-###<div align="center">
-<img height="auto" src="[https://melhoreseusresultados.com.br/wp-content/uploads/2023/06/giphy-21.gif](https://i.gifer.com/913V.gif)"/>
-</div>####
+<div align="center">
+<img height="auto" src="https://i.gifer.com/913V.gif"/>
+</div>
 
    <div> 
         <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
