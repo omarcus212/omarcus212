@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  
 <div align="center"  justify-content="center">
-<img height="auto" src="https://i.pinimg.com/236x/18/03/e4/1803e467763714a25212fe2ed75a0a8a.jpg"/>
+<img height="auto" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-do-ator-jim-carrey-13.gif"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcus212&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
