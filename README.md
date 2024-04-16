@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  
 <div align="center">
-<img height="auto" src="https://i.gifer.com/913V.gif"/>
+<img height="auto" src="https://i.pinimg.com/236x/18/03/e4/1803e467763714a25212fe2ed75a0a8a.jpg"/>
 </div>
 
    <div> 
