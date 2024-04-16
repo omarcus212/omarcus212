@@ -18,6 +18,7 @@ Here are some ideas to get you started:
  
 <div align="center">
 <img height="auto" src="https://i.pinimg.com/236x/18/03/e4/1803e467763714a25212fe2ed75a0a8a.jpg"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcus212&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
    <div> 
