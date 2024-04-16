@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
  
 ###<div align="center">
+<img height="auto" src="[https://melhoreseusresultados.com.br/wp-content/uploads/2023/06/giphy-21.gif](https://i.gifer.com/913V.gif)"/>
   <a href="https://github.com/omarcus212">
-  <img height="auto" src="[https://melhoreseusresultados.com.br/wp-content/uploads/2023/06/giphy-21.gif](https://i.gifer.com/913V.gif)"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcus212&layout=compact&langs_count=7&theme=dark"/>
 </div>####
 
