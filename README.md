@@ -18,6 +18,7 @@ Here are some ideas to get you started:
  
 ###<div align="center">
   <a href="https://github.com/omarcus212">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmelhoreseusresultados.com.br%2Fblog%2Fprincipais-habilidades-exigidas-para-um-gestor-de-ti%2F&psig=AOvVaw2S2xWDQ7XVTc5f0ClfEuoX&ust=1713374546034000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiEktufx4UDFQAAAAAdAAAAABBw"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcus212&layout=compact&langs_count=7&theme=dark"/>
 </div>####
 
