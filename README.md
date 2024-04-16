@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 
 <div align="center"  justify-content="center">
 <img height="auto" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-do-ator-jim-carrey-13.gif"/>
+</div>
+ 
+<div align="center"  justify-content="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcus212&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
