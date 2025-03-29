@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Marcus! 👋</h1>
 <div align="center">
-  <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hubWNmMXJvdzY5cG5venJyM3k2eW94d3psdnVvdjZ1OHprcXh5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"/>
+  <img height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNpZmthbWV2NHF5dWthc3d5dXdhdXkwdHlpeGU0Nzd3MTM5cTNsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"/>
 </div>
 <p align="center"> 
  Apaixonado por tecnologia, desenvolvimento e resolução de problemas!
