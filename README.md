@@ -1,5 +1,4 @@
 <h1 align="center">Olá, eu sou o Marcus! 👋</h1>
----
 <div align="center">
   <img height="250" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-do-ator-jim-carrey-13.gif"/>
 </div>
@@ -9,7 +8,6 @@
 
 
 ## 🚀 About Me
----
 - 🎯 **Desenvolvedor de Software** em formação, com conhecimento em backend (PHP, Slim Framework, Laravel, 
        Python, TypeScript, Node.js) e frontend (HTML, CSS, JavaScript, Figma, React.js, SASS).
 
@@ -30,18 +28,14 @@
 </div>
 
 
-
  📊 GitHub Stats
- ---
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarcus212&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcus212&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
-
 ## 📫 Connect with Me  
---- 
 <div align="center">
   <a href="mailto:seuemail@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
