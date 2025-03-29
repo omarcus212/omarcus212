@@ -1,51 +1,53 @@
-### Hi, how are you?👋
+<h1 align="center">Hey, I'm Marcus! 👋</h1>
 
-<!--
-**omarcus212/omarcus212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about technology, web development, and problem-solving!  
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div align="center"  justify-content="center">
-<img height="auto" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-do-ator-jim-carrey-13.gif"/>
+<div align="center">
+  <img height="250" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-do-ator-jim-carrey-13.gif"/>
 </div>
- 
-<div align="center"  justify-content="center">
+
+---
+
+## 🚀 About Me
+- 🎯 **Frontend Developer** focused on crafting amazing user experiences.
+- 🌱 Currently learning **TypeScript & Next.js** to enhance my skills.
+- 🤝 Open to collaborating on **open-source projects** and learning with the community.
+
+---
+
+## 🛠 Tech Stack
+<div align="center">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS">
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux">
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript">
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL">
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcus212&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-   <div> 
-        <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
-          <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-        </a>
-        <a href="https://www.linkedin.com/in/marcus-vinnicius-524aa1206/" target="_blank">
-          <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-        </a> 
-    </div>
+---
 
-  
-   <div dir="auto"><br>
-     <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-      <img align="center" alt="CSS3" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="React" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-      <img align="center" alt="SASS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-      <img align="center" alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-      <img align="center" alt="Typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />     
-      <img align="center" alt="Mysql"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  </div>
-   
- 
- 
- 
- 
+## 📫 Connect with Me  
+<div align="center">
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/marcus-vinnicius-524aa1206/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div>
 
+---
+
+💡 *"The best way to predict the future is to create it."* 🚀
