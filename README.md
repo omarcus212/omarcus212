@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-- 🎯 **Frontend Developer** focused on crafting amazing user experiences.
+- 🎯 **Backend Developer** focused on crafting amazing user experiences.
 - 🌱 Currently learning **TypeScript & Next.js** to enhance my skills.
 - 🤝 Open to collaborating on **open-source projects** and learning with the community.
 
