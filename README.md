@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Marcus! 👋</h1>
 <div align="center">
-  <img height="250" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-do-ator-jim-carrey-13.gif"/>
+  <img height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 <p align="center"> 
  Apaixonado por tecnologia, desenvolvimento e resolução de problemas!
