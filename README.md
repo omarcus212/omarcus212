@@ -38,7 +38,7 @@
 ## 📫 Conecte-se comigo
 <div align="center">
 <a href="mailto:marcusvinniciusouza@gmail.com" target="_blank">
-  <img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Gmail" height="40">
+  <img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Gmail" height="20">
 </a>
 
 <a href="https://www.linkedin.com/in/marcus-vinnicius-524aa1206/" target="_blank">
