@@ -38,7 +38,7 @@
 ## 📫 Connect with Me  
 <div align="center">
 <a href="mailto:seuemail@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Gmail_Icon_%282013-2020%29.png" alt="Gmail" height="40">
+  <img src="https://www.iconfinder.com/icons/7089163/gmail_google_icon" alt="Gmail" height="40">
 </a>
 <a href="https://www.linkedin.com/in/marcus-vinnicius-524aa1206/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" height="40">
