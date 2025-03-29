@@ -38,8 +38,7 @@
 ## 📫 Connect with Me  
 <div align="center">
 <a href="mailto:seuemail@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Gmail_Icon_%282013-2020%29.png" alt="Gmail" height="40">
 <a href="https://www.linkedin.com/in/marcus-vinnicius-524aa1206/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
