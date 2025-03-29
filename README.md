@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-- 🎯 ## Desenvolvedor de Software ## em formação, com conhecimento em backend (PHP, Slim Framework, Laravel, 
+- 🎯 * Desenvolvedor de Software * em formação, com conhecimento em backend (PHP, Slim Framework, Laravel, 
        Python, TypeScript, Node.js) e frontend (HTML, CSS, JavaScript, Figma, React.js, SASS).
 ---
 
