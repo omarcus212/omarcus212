@@ -7,12 +7,12 @@
 </p>
 
 
-## 🚀 About Me
+## 🚀 Sobre mim
 🎯 **Desenvolvedor de Software** em formação, com conhecimento em backend (PHP, Slim Framework, Laravel, 
        Python, TypeScript, Node.js) e frontend (HTML, CSS, JavaScript, Figma, React.js, SASS).
 
 
-## 🛠 Tech Stack
+## 🛠 Tecnologias
 <div align="center">
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5">
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3">
@@ -28,16 +28,16 @@
 </div>
 
 
- ## 📊 GitHub Stats
+ ## 📊 Estatísticas do GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarcus212&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcus212&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
-## 📫 Connect with Me  
+## 📫 Conecte-se comigo
 <div align="center">
-<a href="mailto:marcusvinniciusouza@gmail.com" target="_blank">
+<a href="marcusvinniciusouza@gmail.com" target="_blank">
   <img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Gmail" height="40">
 </a>
 
