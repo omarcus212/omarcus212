@@ -41,7 +41,7 @@
   <img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Gmail" height="40">
 </a>
 <a href="https://www.linkedin.com/in/marcus-vinnicius-524aa1206/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" height="40">
+  <img src="https://cdn3.iconfinder.com/data/icons/social-round-corner/512/linkdin__social_media_logo-256.png" alt="LinkedIn" height="40">
 </a>
 </div>
 
