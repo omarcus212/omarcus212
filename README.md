@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Marcus! 👋</h1>
+<h1 align="center">Olá, eu sou o Marcus! 👋</h1>
 
-<p align="center">
-  Passionate about technology, web development, and problem-solving!  
+<p align="center"> 
+ Apaixonado por tecnologia, desenvolvimento e resolução de problemas!
 </p>
 
 <div align="center">
