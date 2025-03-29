@@ -37,7 +37,7 @@
 
 ## 📫 Connect with Me  
 <div align="center">
-<a href="mailto:seuemail@gmail.com">
+<a href="mailto:marcusvinniciusouza@gmail.com" target="_blank">
   <img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Gmail" height="40">
 </a>
 ---
