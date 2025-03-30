@@ -9,7 +9,11 @@
 
 ## 🚀 Sobre mim
 🎯 **Desenvolvedor de Software** em formação, com conhecimento em backend (PHP, Slim Framework, Laravel, 
-       Python, TypeScript, Node.js) e frontend (HTML, CSS, JavaScript, Figma, React.js, SASS).
+       Python, TypeScript, Node.js) e frontend (HTML, CSS, JavaScript, Figma, React.js, SASS). 
+       Boa lógica de programação, experiência no desenvolvimento de APIs RESTful e interfaces web 
+       responsivas. Destaca-se nas habilidades em resolução de problemas, adaptabilidade e trabalho em equipe. 
+       Busca uma oportunidade júnior ou estágio para desenvolver suas competências e contribuir com soluções 
+       criativas. 
 
 
 ## 🛠 Tecnologias
