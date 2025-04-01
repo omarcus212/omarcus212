@@ -16,6 +16,10 @@
        criativas. 
 
 
+## 🚀 Objetivo
+💻 Em busca de oportunidades como estagiário em desenvolvimento, desenvolvedor Back-end júnior ou projetos práticos que impulsionem minha evolução na área. Tenho experiência com PHP e Node.js e estou focado em aprimorar minhas habilidades através de desafios reais e colaborativos.
+
+
 ## 🛠 Tecnologias
 <div align="center">
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5">
