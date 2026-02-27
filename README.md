@@ -8,16 +8,16 @@
 
 
 ## 😄 Sobre mim
-🎯 **Desenvolvedor de Software** em formação, com conhecimento em backend (PHP, Slim Framework, Laravel, 
-       Python, TypeScript, Node.js) e frontend (HTML, CSS, JavaScript, Figma, React.js, SASS). 
-       Boa lógica de programação, experiência no desenvolvimento de APIs RESTful e interfaces web 
-       responsivas. Destaca-se nas habilidades em resolução de problemas, adaptabilidade e trabalho em equipe. 
-       Busca uma oportunidade júnior ou estágio para desenvolver suas competências e contribuir com soluções 
-       criativas. 
+🎯 **Desenvolvedor de Software (back-end|full-stack)** com experiência em PHP (Slim Framework e Laravel), Node.js, TypeScript e Java, além de atuação em Front-end com HTML5, CSS3, JavaScript (ES6+), React.js, SASS e Tailwind CSS.
+
+Possui experiência no desenvolvimento de APIs RESTful e interfaces web responsivas, aplicando boas práticas de organização de código e versionamento com Git.
+
+Tem familiaridade com bancos de dados SQL e NoSQL, Docker, CI/CD e metodologias ágeis como Scrum e Kanban. Destaca-se pela boa lógica de programação, capacidade analítica, adaptabilidade e colaboração em equipe.
 
 
 ## 🚀 Objetivo
-💻 Em busca de oportunidades como estagiário em desenvolvimento, desenvolvedor Back-end júnior ou projetos práticos que impulsionem minha evolução na área. Tenho experiência com PHP e Node.js e estou focado em aprimorar minhas habilidades através de desafios reais e colaborativos.
+💻 Atuar como Desenvolvedor Trainee, Back-end Júnior ou Fullstack Júnior, contribuindo em projetos reais com foco em performance, organização e escalabilidade.
+Busca integrar equipes colaborativas onde possa aplicar seus conhecimentos em PHP e Node.js, evoluir tecnicamente de forma contínua e gerar impacto por meio de soluções bem estruturadas.
 
 
 ## 🛠 Tecnologias
