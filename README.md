@@ -17,7 +17,7 @@ Tem familiaridade com bancos de dados SQL e NoSQL, Docker, CI/CD e metodologias 
 
 ## 🚀 Objetivo
 💻 Atuar como Desenvolvedor Trainee, Back-end Júnior ou Fullstack Júnior, contribuindo em projetos reais com foco em performance, organização e escalabilidade.
-Busca integrar equipes colaborativas onde possa aplicar seus conhecimentos em PHP e Node.js, evoluir tecnicamente de forma contínua e gerar impacto por meio de soluções bem estruturadas.
+Busca integrar equipes colaborativas onde possa aplicar seus conhecimentos, evoluir tecnicamente de forma contínua e gerar impacto por meio de soluções bem estruturadas.
 
 
 ## 🛠 Tecnologias
