@@ -36,8 +36,8 @@
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux">
 </div>
 
-
-<-- ## 📊 Estatísticas do GitHub
+<!--
+## 📊 Estatísticas do GitHub
 <div align="center">
 
   <img height="180em"
