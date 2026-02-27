@@ -37,7 +37,7 @@
 </div>
 
 
- ## 📊 Estatísticas do GitHub
+<-- ## 📊 Estatísticas do GitHub
 <div align="center">
 
   <img height="180em"
@@ -46,7 +46,7 @@
   <img height="180em"
        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omarcus212&layout=compact&theme=tokyonight" />
 
-</div>
+</div> -->
 
 ## 📫 Conecte-se comigo
 <div align="center">
