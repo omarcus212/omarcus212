@@ -8,7 +8,7 @@
 
 
 ## 😄 Sobre mim
-🎯 **Desenvolvedor de Software (back-end|full-stack)** com experiência em PHP (Slim Framework e Laravel), Node.js, TypeScript e Java, além de atuação em Front-end com HTML5, CSS3, JavaScript (ES6+), React.js, SASS e Tailwind CSS.
+🎯 **Desenvolvedor de Software (back-end | full-stack)** com experiência em PHP (Slim Framework e Laravel), Node.js, TypeScript e Java, além de atuação em Front-end com HTML5, CSS3, JavaScript (ES6+), React.js, SASS e Tailwind CSS.
 
 Possui experiência no desenvolvimento de APIs RESTful e interfaces web responsivas, aplicando boas práticas de organização de código e versionamento com Git.
 
