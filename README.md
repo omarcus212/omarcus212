@@ -12,7 +12,7 @@
 
 Possui experiência no desenvolvimento de APIs RESTful e interfaces web responsivas, aplicando boas práticas de organização de código e versionamento com Git.
 
-Tem familiaridade com bancos de dados SQL e NoSQL, Docker, CI/CD e metodologias ágeis como Scrum e Kanban. Destaca-se pela boa lógica de programação, capacidade analítica, adaptabilidade e colaboração em equipe.
+Tem familiaridade com bancos de dados SQL e NoSQL, Docker, CI/CD e metodologias ágeis como Scrum e Kanban. Destaca-se pela boa lógica de programação, capacidade analítica, arquitetura de software, adaptabilidade e colaboração em equipe.
 
 
 ## 🚀 Objetivo
